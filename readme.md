@@ -46,6 +46,8 @@
 
 Полноценный результат работы сети на тестовой выборке показан в train_and_inference_yolov7.ipynb
 
+![Матрица ошибок](images/example_test.jpeg)
+
 Матрица ошибок на тестовой выборке
 ![Матрица ошибок](images/confusion_matrix_test.png) 
 
